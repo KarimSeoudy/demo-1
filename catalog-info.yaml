@@ -4,7 +4,7 @@ metadata:
   name: backstage-demo
   description: An example deployment of a Backstage application.
   annotations:
-    github.com/project-slug: backstage/demo
+    github.com/project-slug: KarimSeoudy/demo-1
     backstage.io/techdocs-ref: dir:.
     demo.backstage.io/techdocs-builder: local
 spec:
